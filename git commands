@@ -1,0 +1,6 @@
+undo git init
+
+rm -rf .git
+
+
+
